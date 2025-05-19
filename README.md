@@ -1,13 +1,11 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤖 Machine learning app.
 
-Description of the app ...
+This is a machine learning app tailored for digital lenders that predicts the likelihood of a client failing to make full loan repayments in 
+the next two years.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digital_lenders.machinelearning.streamlit.app/)
 
 ## GitHub Codespaces
 
